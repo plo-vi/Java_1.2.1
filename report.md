@@ -11,7 +11,7 @@
 ## Описание процесса тестирования
 
 Артефактом послужило:
-* [Техническое задание](https://github.com/netology-code/javaqa-homeworks/tree/master/programming (Задача №1 - Money Transfer)).
+* [Техническое задание (Задача №1 - Money Transfer)](https://github.com/netology-code/javaqa-homeworks/tree/master/programming).
 
 В работе было применено *функциональное тестирование*: проверка функционирования зачисления денежных средств на баланс VIP-клиента.
 
